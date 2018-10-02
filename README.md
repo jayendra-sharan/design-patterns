@@ -1,6 +1,6 @@
 # JavaScript Design Patterns
 
-## Constructr Pattern
+## Constructor Pattern
 ## Object Literal Pattern
 ## Module Pattern
 ## Revealing Module Pattern
